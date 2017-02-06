@@ -61,5 +61,12 @@ body {font:400 16px 'Montserrat', sans-serf;}
   /* Nav */
   .nav li {width:auto; margin:0 .5em; display:inline-block;}
   
+  
+  
 }
 
+.center {
+    padding: 70px 0;
+    border: 3px solid green;
+    text-align: center;
+}
