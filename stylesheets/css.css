@@ -68,3 +68,8 @@ body{
     border: 3px;
     text-align: center;
 }
+
+canvas {
+  display: block;
+  cursor: pointer;
+}
