@@ -2,7 +2,12 @@
 /* BASE */
 /********/
 @import url(http://fonts.googleapis.com/css?family=Montserrat:400,700);
-body {font:400 18px 'Montserrat', sans-serf;background-color:H111111;color:#fff;}
+/*body {font:400 18px 'Montserrat', sans-serf;background-color:H111111;color:#fff;}*/
+body{
+  background-color:#111111;
+  font:400 18 px 'Montserrat', sans-serif;
+  color:#fff;  
+}
 
 
 /**********/
