@@ -11,8 +11,8 @@ body {font:400 18px 'Montserrat', sans-serf;}
 
 #header {position:auto;}
 #header-content {width:100%;}
-#header-logo {padding:1em; background:black;}
-#header-nav {padding:1em; background:gray;}
+#header-logo {padding:1em; background:#111111;}
+#header-nav {padding:1em; background:#555555;}
 #header-nav-toggle {color:#fff; font-size:2em; position:absolute; top:.5em; right:.5em; z-index:1; cursor:pointer;}
 
 
@@ -21,7 +21,7 @@ body {font:400 18px 'Montserrat', sans-serf;}
 /***********/
 
 /* Measure */
-.measure {width:90%; max-width:800px; margin:0 auto;}
+.measure {width:90%; max-width:800px; margin:0 auto;background:#111111}
 
 /* Logo */
 .logo {color:#fff; font-weight:800; margin:0;padding:.1em;}
