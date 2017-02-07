@@ -1,3 +1,9 @@
+body{
+  background-color:#111111;
+    color:#fff;  
+}
+
+
 
 /********/
 /* BASE */
@@ -14,7 +20,6 @@ body {font:400 18px 'Montserrat', sans-serf;}
 #header-logo {padding:1em; background:#111111;}
 #header-nav {padding:1em; background:#555555;}
 #header-nav-toggle {color:#fff; font-size:2em; position:absolute; top:.5em; right:.5em; z-index:1; cursor:pointer;}
-
 
 /***********/
 /* MODULES */
