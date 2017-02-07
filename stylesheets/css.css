@@ -30,7 +30,7 @@ body {font:400 16px 'Montserrat', sans-serf;}
 .measure {width:90%; max-width:800px; margin:0 auto;}
 
 /* Logo */
-.logo {color:#fff; font-weight:700; margin:0;}
+.logo {color:#fff; font-weight:800; margin:0;padding:.1em;}
 
 /* Nav */
 .nav {list-style:none; margin:0; padding:0;}
