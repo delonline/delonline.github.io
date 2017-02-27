@@ -1,3 +1,12 @@
+function toggleMe() {
+    var x = document.getElementById('myDIV');
+    if (x.style.display === 'none') {
+        x.style.display = 'block';
+    } else {
+        x.style.display = 'none';
+    }
+}
+
 (function () {
   var toggle = document.getElementById('header-nav-toggle'),
       nav = document.getElementById('header-nav');
