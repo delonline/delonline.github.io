@@ -9,7 +9,7 @@ body{
   color:#fff;  
   background-image: url(../../images/CasitaTravel.jpg);
   background-repeat: no-repeat;
-  background-attachment: fixed;
+  #background-attachment: fixed;
   background-position: center;
 }
 
