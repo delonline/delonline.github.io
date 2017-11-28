@@ -25,7 +25,15 @@ div{
 /* LAYOUT */
 /**********/
 
-#header {position:auto;}
+#header {
+  position:auto;
+  margin-left: auto; 
+  margin-right:auto; 
+  background:lightgray;
+  transparency:90%;
+  padding: 1%;
+}
+
 #header-content {width:100%;}
 #header-logo {padding:1em; background:#111111;}
 #header-nav {padding:1em; background:#555555;}
