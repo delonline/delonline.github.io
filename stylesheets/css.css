@@ -30,7 +30,7 @@ div{
   margin-left: auto; 
   margin-right:auto; 
   background:lightgray;
-  transparency:90%;
+  opacity: 0.3;
   padding: 1%;
 }
 
@@ -44,7 +44,7 @@ div{
 /***********/
 
 /* Measure */
-.measure {width:100%; max-width:800px; margin:2 auto; background:lightgray; transparency:90%; padding: 1%;}
+.measure {width:90%; max-width:800px; margin:2 auto;}
 
 /* Logo */
 .logo {color:#fff; font-weight:800; margin:0;padding:.1em;}
