@@ -12,7 +12,14 @@ body{
   #background-attachment: fixed;
   background-position: center;
 }
-
+div{
+  width:25%;
+  margin-left: auto; 
+  margin-right:auto; 
+  background:lightgray;
+  transparency:90%;
+  padding: 1%;
+}
 
 /**********/
 /* LAYOUT */
