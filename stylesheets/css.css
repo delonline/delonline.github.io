@@ -13,19 +13,12 @@ body{
   background-position: center;
 }
 
+
 /**********/
 /* LAYOUT */
 /**********/
 
-#header {
-  position:auto;
-  margin-left: auto; 
-  margin-right:auto; 
-  background:lightgray;
-  opacity: 0.3;
-  padding: 1%;
-}
-
+#header {position:auto;}
 #header-content {width:100%;}
 #header-logo {padding:1em; background:#111111;}
 #header-nav {padding:1em; background:#555555;}
@@ -36,7 +29,7 @@ body{
 /***********/
 
 /* Measure */
-.measure {width:90%; max-width:800px; margin:2 auto;}
+.measure {width:90%; max-width:800px; margin:0 auto;}
 
 /* Logo */
 .logo {color:#fff; font-weight:800; margin:0;padding:.1em;}
