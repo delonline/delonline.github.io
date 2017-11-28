@@ -7,11 +7,10 @@ body{
   background-color:#111111;
   font:400 18px 'Montserrat', sans-serif;
   color:#fff;  
-  background-image: url(../../images/CasitaTravel.jpg);
+  background-image: url(../../images/CasitaTravel.jpg) opacity:0.6 ;
   background-repeat: no-repeat;
   #background-attachment: fixed;
   background-position: center;
-  opacity:0.6;
 }
 
 
