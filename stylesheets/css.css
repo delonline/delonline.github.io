@@ -44,7 +44,7 @@ div{
 /***********/
 
 /* Measure */
-.measure {width:90%; max-width:800px; margin:0 auto;}
+.measure {width:100%; max-width:800px; margin:2 auto; background:lightgray; transparency:90%; padding: 1%;}
 
 /* Logo */
 .logo {color:#fff; font-weight:800; margin:0;padding:.1em;}
